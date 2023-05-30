@@ -1,0 +1,23 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "First project in Microverse",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelkinyanjui/Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelkinyanjui/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/samuelkinyanjui/Hello-Microverse#readme"
+}
